@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "868228aa-fcf5-11df-bc1c-e1c2a1a8024d++9742" : {
+      "DVTSourceControlWorkingCopyRepositoryBranchesLocationKey" : "ios\/branches",
+      "DVTSourceControlWorkingCopyRepositoryPrimaryBranchLocationKey" : "ios\/trunk"
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "868228aa-fcf5-11df-bc1c-e1c2a1a8024d++9742" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "64272214-6836-484D-B68A-787704276728",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "868228aa-fcf5-11df-bc1c-e1c2a1a8024d++9742" : "..\/..\/..\/.."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "OpenGLStudy",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "OpenGLStudy.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/192.168.4.20\/wire180",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "868228aa-fcf5-11df-bc1c-e1c2a1a8024d++9742"
+    }
+  ]
+}
